@@ -1,0 +1,20 @@
+Func:
+* Motion //
+* Joystick/Movement
+* Vibration
+* Reload
+* Buttons
+* Battery
+* Switch
+* Reticle/Right Click
+
+
+
+Shift , Space , Reload , Ctrl
+Q , E
+Left Click
+Relocator Button
+
+
+
+
